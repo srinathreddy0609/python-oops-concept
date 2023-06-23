@@ -1,4 +1,5 @@
-
+# class is a blue print for creating an objects
+# class does not take memory space
 class Phone:
     def make_call(self):
         print("making call with other phone")
