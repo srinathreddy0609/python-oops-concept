@@ -1,3 +1,5 @@
+# class is a blue print for creating objects
+#class does not take memory space
 # class sum():
 #     def __init__(self,a,b):
 #         self.a=10
